@@ -144,7 +144,7 @@ public final class In {
     }
 
 
-   /**
+    /** 
      * Initializes an input stream from a filename or web page name.
      *
      * @param  name the filename or web page name
